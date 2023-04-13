@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<title>estudos de casa</title>
+	</head>
+	<body bgcolor="gray" align="center">
+		<h1><font color="blue">Para estudar em casa</font></h1>
+			<p>Pedro</p>
+			<p><em>Pedro</em></p>
+			<!--ou pode usar <i> italico-->
+			<p><strong>Pedro</strong></p>
+			<p> <abbr title= "Pedro Henrique Queriquieri Araujo">PHQA</abbr></p>
+		<br>
+			<img src="https://th.bing.com/th/id/R.3e71f4e1d1fa24014b7fb91870b19ded?rik=RaL2GhVL5D13Gg&riu=http%3a%2f%2fstudio46.com.br%2fwp-content%2fuploads%2f2017%2f08%2fmobile-sacra-walpaper-saint-benedict-sao-bento-medalha-papel-de-parece-celular-1024x538.jpg&ehk=zlH%2bBKb7XA5qLme8Onupm8tzxt8Ke1H7PlHmqAZPf3w%3d&risl=&pid=ImgRaw&r=0.png" width="200" height="170">
+		<br>
+			<img src="..\imagens\teresinha.jfif" width="200" height="300"> 
+		<br>
+			<button> isso é um botão sem funçao </button>
+		<br>
+			<a href="https://www.youtube.com/?app"> youtube </a>
+		<br>
+			<input type="text" placeholder="email">
+		<br>
+			<input type="password" placeholder="senha">		
+		<br>
+			<input type="range">
+		<br>
+			<input type="checkbox">
+		<br>
+			<input type="date">
+		<br>
+			<input type="color">
+		<br>
+		<table border="6" align="center" bgcolor="red" bordercolor="blue">	
+			<tr>
+				<td>
+					1
+				</td>
+				<td>
+					2
+				</td>
+			</tr>
+			<tr>
+				<td>
+					3
+				</td>
+				<td>
+					4
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
